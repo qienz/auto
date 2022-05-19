@@ -9,7 +9,7 @@
 
 # Java class files
 *.class
-
+bct
 # Generated files
 bin/
 gen/
